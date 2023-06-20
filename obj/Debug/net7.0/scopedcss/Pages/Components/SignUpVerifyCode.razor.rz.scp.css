@@ -1,0 +1,55 @@
+.su-code[b-v06n8oz4qr] {
+    padding: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.suc-code-main[b-v06n8oz4qr] {
+    width: 350px;
+    padding: 25px;
+}
+
+.su-code-description[b-v06n8oz4qr] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.su-code-description>img[b-v06n8oz4qr] {
+    height: 80%;
+    width: 80%;
+}
+
+.su-code-form[b-v06n8oz4qr] {
+    padding: 5px;
+    width: 100%;
+    display: table-row;
+}
+
+.sucf-inputs[b-v06n8oz4qr] {
+    width: 100%;
+    padding: 15px;
+}
+
+.su-buttons[b-v06n8oz4qr] {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 15px;
+}
+
+.su-buttons>button[b-v06n8oz4qr] {
+    width: 100%;
+}
+
+.su-buttons>.custom-btn-secondary[b-v06n8oz4qr] {
+    font-size: 0.88em;
+}
+
+.su-error-message[b-v06n8oz4qr] {
+    text-align: center;
+    font-size: 0.88em;
+}

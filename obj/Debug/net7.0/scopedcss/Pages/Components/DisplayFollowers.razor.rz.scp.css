@@ -1,0 +1,45 @@
+.followers[b-5kcfpvt3nh] {
+    min-height: 350px;
+    width: 100%;
+}
+
+.modal[b-5kcfpvt3nh] {
+    background-color: rgba(0, 0, 0, 0.544);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-dialog[b-5kcfpvt3nh] {
+    width:400px;
+}
+
+.modal-header[b-5kcfpvt3nh] {
+    padding: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.modal-header > h1[b-5kcfpvt3nh]{
+    text-align: center;
+}
+
+.btn-modal-close-container[b-5kcfpvt3nh] {
+
+    right:7.5px;
+    top:7.5px;
+    position:absolute;
+}
+
+.btn-modal-close-container > button[b-5kcfpvt3nh] {
+    height:30px;
+    width:30px;
+}
+
+.modal-header > h1[b-5kcfpvt3nh] {
+    font-size: 1em;
+    font-weight: 700;
+    width:100%;
+}

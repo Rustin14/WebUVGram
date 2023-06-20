@@ -1,0 +1,45 @@
+.likes[b-rnqkxt00qp] {
+    min-height: 350px;
+    width: 100%;
+}
+
+.modal[b-rnqkxt00qp] {
+    background-color: rgba(0, 0, 0, 0.544);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-dialog[b-rnqkxt00qp] {
+    width:400px;
+}
+
+.modal-header[b-rnqkxt00qp] {
+    padding: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.modal-header > h1[b-rnqkxt00qp]{
+    text-align: center;
+}
+
+.btn-modal-close-container[b-rnqkxt00qp] {
+
+    right:7.5px;
+    top:7.5px;
+    position:absolute;
+}
+
+.btn-modal-close-container > button[b-rnqkxt00qp] {
+    height:30px;
+    width:30px;
+}
+
+.modal-header > h1[b-rnqkxt00qp] {
+    font-size: 1em;
+    font-weight: 700;
+    width:100%;
+}

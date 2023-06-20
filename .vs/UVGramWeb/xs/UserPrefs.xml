@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{59D6305F-8A8A-44AD-B567-518FEF897E21}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UVGramWeb PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/EditProfile.razor">
+    <Files>
+      <File FileName="Services/AuthenticationService.cs" Line="1" Column="1" />
+      <File FileName="App.razor" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="27" Column="90" />
+      <File FileName="Pages/EditProfile.razor" Line="229" Column="109" />
+      <File FileName="Pages/Components/EPSidebar.razor" Line="5" Column="15" />
+      <File FileName="Pages/Components/DisplayFollowers.razor" Line="1" Column="1" />
+      <File FileName="Pages/Components/DisplayFollowed.razor" Line="1" Column="1" />
+      <File FileName="Pages/Components/RedirectHome.razor" Line="1" Column="1" />
+      <File FileName="Pages/Components/SignUpBasicInfo.razor" Line="1" Column="1" />
+      <File FileName="Pages/Components/Topbar.razor" Line="1" Column="1" />
+      <File FileName="Pages/Components/TopbarTools.razor" Line="17" Column="18" />
+      <File FileName="Pages/Components/UserProfile.razor" Line="1" Column="1" />
+      <File FileName="Pages/Components/UserDisplay.razor" Line="1" Column="1" />
+      <File FileName="Pages/Profile.razor" Line="288" Column="1" />
+      <File FileName="Pages/Components/CommentComp.razor" Line="112" Column="1" />
+      <File FileName="Pages/Components/CommentReply.razor" Line="1" Column="1" />
+      <File FileName="Pages/Components/DoneCheckMark.razor" Line="1" Column="1" />
+      <File FileName="Pages/Components/DisplayPostLikes.razor" Line="1" Column="1" />
+      <File FileName="Pages/Components/DisplayNotifications.razor" Line="1" Column="1" />
+      <File FileName="Pages/Components/CustomValidationMessage.razor" Line="1" Column="1" />
+      <File FileName="Pages/Components/Login.razor" Line="1" Column="1" />
+      <File FileName="Pages/Components/PublicationDetail.razor" Line="139" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UVGramWeb" expanded="True">
+            <Node name="UVGramWeb" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="EditProfile.razor" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

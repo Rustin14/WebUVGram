@@ -1,0 +1,177 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = UVGramWeb
+build_property.RootNamespace = UVGramWeb
+build_property.ProjectDir = /Users/cflorlir/WebUVGram/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/cflorlir/WebUVGram
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/cflorlir/WebUVGram/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cflorlir/WebUVGram/Pages/Components/CustomValidationMessage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9DdXN0b21WYWxpZGF0aW9uTWVzc2FnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cflorlir/WebUVGram/Pages/Components/NotFound.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9Ob3RGb3VuZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cflorlir/WebUVGram/Pages/Components/RedirectHome.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9SZWRpcmVjdEhvbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cflorlir/WebUVGram/Pages/Components/StatusOperation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9TdGF0dXNPcGVyYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cflorlir/WebUVGram/Pages/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9nb3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cflorlir/WebUVGram/Pages/URLResetVerification.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVVJMUmVzZXRWZXJpZmljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cflorlir/WebUVGram/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cflorlir/WebUVGram/Pages/Components/CommentComp.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9Db21tZW50Q29tcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-7cypfnqc2x
+
+[/Users/cflorlir/WebUVGram/Pages/Components/CommentReply.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9Db21tZW50UmVwbHkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-a1lrdbfqhw
+
+[/Users/cflorlir/WebUVGram/Pages/Components/DisplayFollowed.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9EaXNwbGF5Rm9sbG93ZWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-yb5rd3ri68
+
+[/Users/cflorlir/WebUVGram/Pages/Components/DisplayFollowers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9EaXNwbGF5Rm9sbG93ZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-5kcfpvt3nh
+
+[/Users/cflorlir/WebUVGram/Pages/Components/DisplayNotifications.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9EaXNwbGF5Tm90aWZpY2F0aW9ucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-q8zqy7i4sl
+
+[/Users/cflorlir/WebUVGram/Pages/Components/DisplayPostLikes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9EaXNwbGF5UG9zdExpa2VzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-rnqkxt00qp
+
+[/Users/cflorlir/WebUVGram/Pages/Components/DoneCheckMark.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9Eb25lQ2hlY2tNYXJrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-7m5sja04el
+
+[/Users/cflorlir/WebUVGram/Pages/Components/EPSidebar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9FUFNpZGViYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-c5ol62t4v1
+
+[/Users/cflorlir/WebUVGram/Pages/Components/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-gpmdqkyynd
+
+[/Users/cflorlir/WebUVGram/Pages/Components/Logo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9Mb2dvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-rrf025yqfg
+
+[/Users/cflorlir/WebUVGram/Pages/Components/ProfilePublication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9Qcm9maWxlUHVibGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-a2iejp2d7b
+
+[/Users/cflorlir/WebUVGram/Pages/Components/PublicationDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9QdWJsaWNhdGlvbkRldGFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-3ezbq2u33v
+
+[/Users/cflorlir/WebUVGram/Pages/Components/SignUpBasicInfo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9TaWduVXBCYXNpY0luZm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4gokdk0qq7
+
+[/Users/cflorlir/WebUVGram/Pages/Components/SignUpBirth.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9TaWduVXBCaXJ0aC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-m2x3h0jisz
+
+[/Users/cflorlir/WebUVGram/Pages/Components/SignUpVerifyCode.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9TaWduVXBWZXJpZnlDb2RlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-v06n8oz4qr
+
+[/Users/cflorlir/WebUVGram/Pages/Components/Topbar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9Ub3BiYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-o1u1lmxsrj
+
+[/Users/cflorlir/WebUVGram/Pages/Components/TopbarTools.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9Ub3BiYXJUb29scy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-2ray7n8wt9
+
+[/Users/cflorlir/WebUVGram/Pages/Components/UserDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9Vc2VyRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-2fb4pmswdv
+
+[/Users/cflorlir/WebUVGram/Pages/Components/UserProfile.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9Vc2VyUHJvZmlsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-dorqvcqh5l
+
+[/Users/cflorlir/WebUVGram/Pages/Components/UserRequestDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9Vc2VyUmVxdWVzdERpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-u0jsl2hsiw
+
+[/Users/cflorlir/WebUVGram/Pages/EditProfile.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWRpdFByb2ZpbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-65tf528e1a
+
+[/Users/cflorlir/WebUVGram/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-mpvivnun8u
+
+[/Users/cflorlir/WebUVGram/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-v2ubcfauz3
+
+[/Users/cflorlir/WebUVGram/Pages/LoginPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW5QYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-cucix1uwf1
+
+[/Users/cflorlir/WebUVGram/Pages/PrivacyEditProfile.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeUVkaXRQcm9maWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-df23dc5cv2
+
+[/Users/cflorlir/WebUVGram/Pages/Profile.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZmlsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-fgclox8jfs
+
+[/Users/cflorlir/WebUVGram/Pages/PublicationDetailPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHVibGljYXRpb25EZXRhaWxQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-2701fszilp
+
+[/Users/cflorlir/WebUVGram/Pages/ResetPassword.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzZXRQYXNzd29yZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-1wmkg957bd
+
+[/Users/cflorlir/WebUVGram/Pages/SignUp.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2lnblVwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-1ht8p8gh99
+
+[/Users/cflorlir/WebUVGram/Pages/URLResetPassword.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVVJMUmVzZXRQYXNzd29yZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-byeynazb86
+
+[/Users/cflorlir/WebUVGram/Shared/HomeLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0hvbWVMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xney4lah9b
+
+[/Users/cflorlir/WebUVGram/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-mwk7a10tnr

@@ -1,0 +1,41 @@
+.done-checkmark-square[b-7m5sja04el] {
+    height: 80%;
+}
+
+.done-checkmark[b-7m5sja04el] {
+    width: 100%;
+    height: 100%;
+    display: block;
+    stroke-width: 4;
+    stroke: #fff;
+    stroke-miterlimit: 10;
+    animation: fill-b-7m5sja04el .2s ease-in-out .2s forwards
+}
+
+.done-checkmark-check[b-7m5sja04el] {
+    stroke-dasharray: 108;
+    stroke-dashoffset: 108;
+    animation: stroke-b-7m5sja04el 0.2s cubic-bezier(0.65, 0, 0.45, 1) 0.2s forwards
+}
+
+@keyframes stroke-b-7m5sja04el {
+    100% {
+        stroke-dashoffset: 0
+    }
+}
+
+@keyframes scale-b-7m5sja04el {
+
+    0%,
+    100% {
+        transform: none
+    }
+
+    50% {
+        transform: scale3d(1.75, 1.75, 1)
+    }
+}
+
+@keyframes fill-b-7m5sja04el {
+    100% {}
+}

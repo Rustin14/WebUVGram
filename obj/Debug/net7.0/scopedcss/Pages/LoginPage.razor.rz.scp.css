@@ -1,0 +1,14 @@
+.welcome-main-container[b-cucix1uwf1] {
+    width: 100vw;
+    height: auto;
+    display: flex;
+}
+
+.wm-information-container[b-cucix1uwf1] {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 75px;
+}

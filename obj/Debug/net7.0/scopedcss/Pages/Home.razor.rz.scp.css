@@ -1,0 +1,76 @@
+.wrapper[b-mpvivnun8u] {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home[b-mpvivnun8u] {
+    width: 100%;
+    height: 100%;
+    padding:45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-message[b-mpvivnun8u] {
+    padding:45px;
+}
+
+.histories[b-mpvivnun8u] {
+    grid-area: a;
+}
+
+.publications[b-mpvivnun8u] {
+    grid-area: b;
+    gap: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.aside[b-mpvivnun8u] {
+    grid-area: c;
+    padding-top: 100px;
+}
+
+.histories-content[b-mpvivnun8u] {
+    height: 100%;
+    width: 100%;
+}
+
+.histories-content ul[b-mpvivnun8u] {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    padding-left: 10px;
+    height: 100%;
+    margin: 0;
+    justify-content: left;
+    align-items: center;
+    overflow: auto;
+}
+
+.aside-content[b-mpvivnun8u] {
+    width: 100%;
+}
+
+.suggestions-content[b-mpvivnun8u] {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    overflow: hidden;
+}
+
+.suggestions-header[b-mpvivnun8u] {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.suggestions-header>span:nth-child(2)[b-mpvivnun8u] {
+    font-size: 0.8em;
+    ;
+}

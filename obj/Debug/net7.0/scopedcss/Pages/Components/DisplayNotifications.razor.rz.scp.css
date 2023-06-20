@@ -1,0 +1,45 @@
+.followed[b-q8zqy7i4sl] {
+    min-height: 350px;
+    width: 100%;
+}
+
+.modal[b-q8zqy7i4sl] {
+    background-color: rgba(0, 0, 0, 0.544);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-dialog[b-q8zqy7i4sl] {
+    width: 400px;
+}
+
+.modal-header[b-q8zqy7i4sl] {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.modal-header>h1[b-q8zqy7i4sl] {
+    text-align: center;
+}
+
+.btn-modal-close-container[b-q8zqy7i4sl] {
+
+    right: 7.5px;
+    top: 7.5px;
+    position: absolute;
+}
+
+.btn-modal-close-container>button[b-q8zqy7i4sl] {
+    height: 30px;
+    width: 30px;
+}
+
+.modal-header>h1[b-q8zqy7i4sl] {
+    font-size: 1em;
+    font-weight: 700;
+    width: 100%;
+}
